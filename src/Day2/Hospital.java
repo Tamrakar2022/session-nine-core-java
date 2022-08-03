@@ -8,6 +8,7 @@ public class Hospital {
     //-kind of hospital
     //-Number of beds
     //-number of daily patients
+    //-number of staffs
 
     //Behaviour
     //-Paying bills

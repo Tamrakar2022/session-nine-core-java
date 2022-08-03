@@ -15,6 +15,7 @@ public class House {
     //Behaviour
     //-Open door
     //-Close door
-    //-
+    //-Change colour
+    //-change decor
 
 }
