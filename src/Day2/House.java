@@ -12,10 +12,13 @@ public class House {
     //-Garage
     //-Number of parking
 
-    //Behaviour
-    //-Open door
-    //-Close door
-    //-Change colour
-    //-change decor
+    //Behaviour (Renting)
+    //-Filling out Application form
+    //-background checking
+    //-Credit score checking
+    //-Paying Deposit
+    //-Paying rent
+    //-Maintainance request
+    //-Paying late fee
 
 }
