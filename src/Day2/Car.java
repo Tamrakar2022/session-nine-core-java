@@ -3,12 +3,12 @@ package Day2;
 public class Car {
 
     //States
-    //-Colour
-    //-Number of seats
-    //-size
-    //-Engine type
+    //-Colour (String)
+    //-Number of seats (String)
+    //-size (String)
+    //-Engine type (String)
     //-Mileage
-    //-Body Type
+    //-Body Type (String)
 
     //Behaviour (Ecommerce)
     //-Car for sale

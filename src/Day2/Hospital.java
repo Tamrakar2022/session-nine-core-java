@@ -3,12 +3,12 @@ package Day2;
 public class Hospital {
 
     //States
-    //-floor
-    //-Department
-    //-kind of hospital
-    //-Number of beds
-    //-number of daily patients
-    //-number of staffs
+    //-floor (String)
+    //-Department (String)
+    //-kind of hospital (String)
+    //-Number of beds (Int)
+    //-number of daily patients (Int)
+    //-number of staffs (Int)
 
     //Behaviour
     //-Paying bills

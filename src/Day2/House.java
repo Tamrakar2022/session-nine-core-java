@@ -3,14 +3,14 @@ package Day2;
 public class House {
 
     //States
-    //-Colour
-    //-Type
-    //-Storey
-    //-Colour
-    //-Land size
-    //-Features
-    //-Garage
-    //-Number of parking
+    //-Colour (String)
+    //-Type (String)
+    //-Storey (String)
+    //-Colour (String)
+    //-Land size (Int)
+    //-Features (String)
+    //-Garage (String)
+    //-Number of parking (String)
 
     //Behaviour (Renting)
     //-Filling out Application form
