@@ -3,16 +3,21 @@ package Day2;
 public class Mobile {
 
     //States
-    //-Brand
-    //-Serial Number
-    //-Size
-    //-Number of cameras
-    //-Storage
-    //-OS
-    //-Model
-    //-Description
-    //-Images
-    //-Price
+
+    String brand;
+    String color;
+    String serialNumber;
+    float size;
+    int numberOfCameras;
+    int storage;
+   String storageUnit;
+   String os;
+   String model;
+   String description;
+   String images;
+   float price;
+   boolean hasAmazonGurantee;
+
 
     //Behaviour
     //-Add to cart
