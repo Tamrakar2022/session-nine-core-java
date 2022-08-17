@@ -1,7 +1,10 @@
 package Day2;
 
 /**
- * This application
+ * This application is used for Bank account
+ *
+ * @author Reshma Tamrakar
+ * @version 1.0.1
  */
 public class BankAccount {
 

@@ -1,5 +1,11 @@
 package Day2;
 
+/**
+ * This application is used for Amazon Web
+ *
+ * @author Reshma Tamrakar
+ * @version 1.0.0
+ */
 public class AmazonWebApp {
 
     public static void main(String[] args) {
@@ -19,7 +25,7 @@ public class AmazonWebApp {
 
     samsungS22.brand = "Samsung";
     samsungS22.color = "white";
-    samsungS22.numberOfCameras = "2";
+    samsungS22.numberOfCameras ="2";
     samsungS22.os = "Android";
     samsungS22.size = 6.0f;
     samsungS22.serialNumber = "3527889yhgsr";
