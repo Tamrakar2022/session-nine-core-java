@@ -1,5 +1,11 @@
 package Day2;
 
+/**
+ * This appication is used by Bank of America
+ *
+ * @author Reshma Tamrakar
+ * @version 1.0.0
+ */
 public class BankOfAmericaApp {
 
     public static void main(String[] args) {

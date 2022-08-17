@@ -1,5 +1,8 @@
 package Day2;
 
+/**
+ * This application
+ */
 public class BankAccount {
 
     //States
@@ -84,11 +87,11 @@ public class BankAccount {
         this.socialSecurityNumber = socialSecurityNumber;
     }
     //Behaviour
-
-    //Open Account
-    //Close Account
-    //Deposit
-    //Withdraw
-    //Transfer
-
+    /*
+    Open Account
+    Close Account
+    Deposit
+    Withdraw
+    Transfer
+    */
 }
