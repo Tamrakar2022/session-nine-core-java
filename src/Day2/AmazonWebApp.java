@@ -10,7 +10,7 @@ public class AmazonWebApp {
 
     public static void main(String[] args) {
 
-    Mobile iphone13 = new Mobile();
+    Mobile iphone12 = new Mobile();
 
     iphone12.brand = "Iphone";
     iphone12.color = "red";
@@ -25,12 +25,12 @@ public class AmazonWebApp {
 
     samsungS22.brand = "Samsung";
     samsungS22.color = "white";
-    samsungS22.numberOfCameras ="2";
+    samsungS22.numberOfCameras =2;
     samsungS22.os = "Android";
     samsungS22.size = 6.0f;
     samsungS22.serialNumber = "3527889yhgsr";
     samsungS22.storageUnit = "GB";
-    samsungS22.price = 1329f
+    samsungS22.price = 1329f;
 
     }
 }

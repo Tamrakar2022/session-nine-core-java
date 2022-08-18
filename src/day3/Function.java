@@ -11,7 +11,7 @@ public class Function {
         int add1 = a + b;
         System.out.println(add1);
 
-        int c = 5
+        int c = 5;
     }
     /*
 

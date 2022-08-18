@@ -10,7 +10,7 @@ public class VariableAndConstant {
         float interestRate = 11.03f;
         final float PI = 3.14f;
 
-        pi = 2.14f;
+//        PI = 2.14f;
 
     }
 }

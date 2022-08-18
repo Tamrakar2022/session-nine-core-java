@@ -20,12 +20,12 @@ public class BankOfAmericaApp {
         account1.setConnectedMobileNumber("9851184633");
         account1.setAddress("Kathmandu, Nepal");
         account1.setBsbNumber("001");
-        account1.setAccountBalance("50000.0");
+        account1.setAccountBalance(50000.0);
         account1.setSocialSecurityNumber("987654321");
 
         BankAccount account2 = new BankAccount();
 
-        System.out.println(account1.socialSecurityNumber());
+//        System.out.println(account1.));
         System.out.println(account1.getAccountNumber());
         System.out.println(account1.getAccountHolderName());
         System.out.println(account1.getAccountType());
